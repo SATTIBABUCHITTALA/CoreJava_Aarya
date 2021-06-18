@@ -1,0 +1,216 @@
+Difference between the other languagues
+
+
+Procedural Langauges
+
+
+Object Oriented Langugage
+
+python--Pascal
+
+
+
+java
+----------------------------------------
+1. class
+2. object
+3. interface
+4. encapsulation
+5. inheritance
+6. polymorphism
+7. Abstraction
+---------------------------------------------------
+class :-
+
+class is nothing but a blueprint ..
+
+--------------------------------------------------------
+
+what it consists of ?
+
+It consists of Variables, methods 
+
+
+class Student{
+
+int stdId;
+
+void getStudentDetails(){
+
+
+
+
+
+
+
+}
+---------------------------------
+void squareofNumber( int i){
+
+ 
+return (i*i)*i;
+
+}
+
+}
+
+squarefofNumber(3);
+---------------------------------------------------------
+
+Data types in Java
+----------------------------------------------------------
+char ---'a', 'b', 's';
+
+char c='S'; //   1 byte
+
+byte C=123; //  1 byte 0-127  -127 numbers;
+
+
+int num=0 ---- -32 768,4 bytes
+int aarya=
+
+float  num=6.7f 4 bytes
+7.6
+
+double d=7.87834 ---- 8 bytes
+long  l=7.8765434 ------ 8 bytes
+-------------------------------------------------------   
+JVM, JRE, JDK
+-------------------------------------------------------
+
+
+JVM- JAVA VIRTUAL MACHINE
+JRE --- JAVA RUNTIME ENVIRONMENT
+JDK---- JAVA DEVELOPMENT KIT
+-------------------------------------------------------------
+
+Steps involved in java 
+---------------------------
+1. Write a program ---------User Understandable Language
+2. Compile the program -----------Machine Understandable Language ---byte code
+3. run the program -----
+
+
+Student.java
+
+
+class Student{
+
+
+
+int stdid;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+---------------------------------------------------
+variables:-
+---------------------------------------------------
+int k;
+int studentId;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

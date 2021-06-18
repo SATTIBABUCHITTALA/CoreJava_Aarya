@@ -1,0 +1,129 @@
+18-06-2021
+---------------------------------------------------------------------------------------------
+
+statements 
+
+
+
+String name="Satti Babu";
+int a=30;
+
+
+String gender;
+
+gender should be M/F;
+
+
+
+int k=1 
+gender should display M
+
+int k=0;
+gender="F";
+
+Conditional Statements:-
+----------------------------------------------------
+if 
+
+
+if-else
+
+break;
+
+continue;
+
+---------------------------------------------------------
+
+int k=0;
+char gender;
+
+if(k==0){
+
+gender='M';
+
+}
+if(k==1){
+
+gender='F';
+}
+----------------------------------------------------------------
+Operators
+-------------------------------------------------------------
+int k=0;
+
+Airthmetic Operators:- *,/,% 
+Assignment Operators:- =, +=, -=, ++, -- 
+
+int k=0;
+k++;
+
+k--
+
+int k=10
+k++---k =11;
+
+k++;
+
+bitwise Operators:-
+
+&,|
+
+Relational Operators:- <,>,<=,>= ,==
+k<5,k>5
+
+Conditional Operatos:-- &&, || operators 
+
+if(k==5 && k>0){
+
+
+
+}
+if(gender=='M' || gender =='F'){
+
+
+}
+
+
+Ternary Operators:- condtion ? true: false;
+
+
+int k=5;
+
+int m=k>5 ?m=6:m=7;
+
+-----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
